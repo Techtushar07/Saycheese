@@ -15,7 +15,13 @@ Take webcam shots from target just sending a malicious link
 
 ```
 git clone https://github.com/thelinuxchoice/saycheese
+ls
 cd saycheese
-bash saycheese.sh
+ls
+chmod +x *
+ls
+turn on Wi-Fi hot-spot and next command 
+./saycheese.sh
+ls
+select [02] Ngrok
 ```
-
